@@ -11,3 +11,11 @@ const person = {
  let cap1 = {...person};
 
  console.log(team);
+console.log(players);
+
+
+window.players = players;
+window.person = person;
+window.cap1 = cap1;
+window.team = team;
+window.team1 = team1;
